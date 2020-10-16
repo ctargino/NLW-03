@@ -1,5 +1,4 @@
 # dependencies
 /web/node_modules
 /web/.env
-/web/.gitignore
 /backend/node_modules
